@@ -7,6 +7,7 @@
 
 I have created a file for studing the git markdown, used all of headers types with small textes for example.
 
+# PICTURE ADDING
 ![Very ukrainian cat](ukr_cat.jpg)
 
 # CODE ADDING
@@ -16,3 +17,9 @@ echo "Creation with \"=>\" (natural indexes order): ";
 print_r($myArr);
 echo "<br>myArr[2] = $myArr[2]<br><br>";
 ```
+
+# TASKS LIST ADDING
+- [x] Choose profile course
+- [ ] Introduce the mark down
+- [ ] Learn php
+- [ ] Get a great job
